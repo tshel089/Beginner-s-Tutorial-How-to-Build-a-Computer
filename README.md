@@ -79,6 +79,7 @@
 <p><strong>Case</strong></p>
 <p><img src="https://th.bing.com/th/id/OIP.UjqgiZ2q9ls_Z_OYndBdOwHaHa?w=210&amp;h=210&amp;c=7&amp;r=0&amp;o=5&amp;dpr=1.3&amp;pid=1.7" alt="enter image description here"></p>
 <p>The enclosure that houses and protects a computer’s internal components, including the motherboard, CPU, RAM, storage devices, power supply, and cooling system.</p>
+<p>This should give you the basic information you will need to get started on your first PC build!</p>
 <blockquote>
 <p>Written with <a href="https://stackedit.io/">StackEdit</a>.</p>
 </blockquote>
